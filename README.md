@@ -1,7 +1,9 @@
 ## Hi, Siphe here👋🏽
 
 
-🧠 Currently pursuing an undergraduate degree in Economics & Poltical Science at the Univeristy of Cape Town Tech<br/>
+🧠 Economics & Poltical Science student at the University of Cape Town<br/>
+👨‍💻I create football visualisations as a hobby<br/>
+✍🏽Write some articles based on the projects I do</br>
 
 
 ## 🌐 Socials:
