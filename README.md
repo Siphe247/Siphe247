@@ -1,7 +1,7 @@
 ## Hi, Siphe here👋🏽
 
 # 💫 About Me:
-🧠 Economics & Poltical Science student at the University of Cape Town<br>👨‍💻I create football visualisations as a hobby<br>✍🏽Write some articles based on the projects I do
+📚 Economics & Poltical Science student at the University of Cape Town<br>⚽️I create football visualisations as a hobby<br>✍🏽Write some articles based on the projects I do
 
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Siphe247&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Siphe247&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siphe247&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Siphe247&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Siphe247&icon=1&color=1)](https://visitcount.itsvg.in)
