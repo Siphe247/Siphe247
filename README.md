@@ -1,4 +1,5 @@
-## Hi, Siphe here👋🏽
+## Hi, Siphe here![til][👋🏽waving hand
+Unicode: U+1F44B U+1F3FD, UTF-8: F0 9F 91 8B F0 9F 8F BD]
 
 # 🕵🏽‍♂️  About Me:
 📚 Economics & Political Science student at the University of Cape Town<br>
