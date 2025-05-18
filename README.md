@@ -1,7 +1,7 @@
 ## Hi, Siphe here👋🏽
 
 # 🕵🏼‍♂️ About Me:
-📚 Economics & Poltical Science student at the University of Cape Town<br>
+📚 Economics & Political Science student at the University of Cape Town<br>
 📊I create football visualisations as a hobby⚽️<br>
 ✍🏽Write some articles based on the projects I do
 
