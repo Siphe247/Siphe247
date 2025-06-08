@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏽 Welcome to the world of Siphe, where data meets football passion!<br>:
 👋🏽 Welcome to the world of Siphe, where data meets football passion!<br>📚 Diving deep into Economics & Political Science at the University of Cape Town, blending analytical skills with creativity.<br>⚽️ Football visualisations come to life here, turning complex stats into captivating stories on the pitch.<br>✍🏽 Articles inspired by data projects bring fresh perspectives and insights to the beautiful game.<br>📊 Explore a collection of innovative projects featuring heat maps and shot maps of legends like Lionel Messi and Cristiano Ronaldo.<br>🏆 Matches from top leagues and tournaments are analyzed with precision, revealing hidden trends and game-changing moments.<br>🚀 Driven by a love for data, sports, and storytelling, making football analytics both fun and accessible for everyone!
 
 
