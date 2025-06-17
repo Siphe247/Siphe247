@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏽 About Me:
 📚 Economics & Political Science at the University of Cape Town<br>⚽️ Football visualisations come to life here, turning complex stats into captivating stories on the pitch.<br>✍🏽 Articles inspired by data projects bring fresh perspectives and insights to the beautiful game.<br>🚀 Driven by a love for data and storytelling
 
 
