@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Siphe247?tab=repositories](https://github.com/Siphe247?tab=repositories)
 
-- 📝 I regularly write articles on [football](football)
+- 📝 I regularly write articles on [https://medium.com/@siphe247/premier-league-after-match-day-36-the-champions-league-battle-the-tale-of-two-hideous-twins-e6129fafa19f](https://medium.com/@siphe247/premier-league-after-match-day-36-the-champions-league-battle-the-tale-of-two-hideous-twins-e6129fafa19f)
 
 - 💬 Ask me about **football data visualisation, Python programming for sports analytics, and turning complex football stats into compelling stories.**
 
