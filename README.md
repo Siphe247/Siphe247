@@ -1,21 +1,32 @@
-# 👋🏽 About Me:
-📚 Economics & Political Science at the University of Cape Town<br>⚽️ Football visualisations come to life here, turning complex stats into captivating stories on the pitch.<br>✍🏽 Articles inspired by data projects bring fresh perspectives and insights to the beautiful game.<br>🚀 Driven by a love for data and storytelling
+<h1 align="center">Hi 👋, I'm Siphe</h1>
+<h3 align="center">A football enthusiast from South Africa.</h3>
 
+<p align="left"> <a href="https://twitter.com/siphemng" target="blank"><img src="https://img.shields.io/twitter/follow/siphemng?logo=twitter&style=for-the-badge" alt="siphemng" /></a> </p>
 
-## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@siphe247) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SipheMng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siphe247@gmail.com) 
+- 🔭 I’m currently working on **a data-driven model to explain how Real Madrid overcame Barcelona in the Copa del Rey, despite losing to them in the Supercopa de España three months earlier, by analysing tactical changes and key performance metrics.**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Siphe247&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Siphe247&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siphe247&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning **on how to apply machine learning in improving my performance in fantasy football(soccer).**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Siphe247&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 👨‍💻 All of my projects are available at [https://github.com/Siphe247?tab=repositories](https://github.com/Siphe247?tab=repositories)
 
----
-[![](https://visitcount.itsvg.in/api?id=Siphe247&icon=0&color=0)](https://visitcount.itsvg.in)
+- 📝 I regularly write articles on [football](football)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💬 Ask me about **football data visualisation, Python programming for sports analytics, and turning complex football stats into compelling stories.**
+
+- 📫 How to reach me **siphe247@gmail.com**
+
+- ⚡ Fun fact **I am highly extroverted.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/siphemng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siphemng" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/siphe-mngxunyeni-346552135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siphe-mngxunyeni-346552135/" height="30" width="40" /></a>
+<a href="https://medium.com/@siphe247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@siphe247" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siphe247&show_icons=true&locale=en" alt="siphe247" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siphe247&" alt="siphe247" /></p>
