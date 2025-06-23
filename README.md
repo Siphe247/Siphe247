@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siphe</h1>
+<h1 align="center">Hi 👋🏽, I'm Siphe</h1>
 <h3 align="center">A football enthusiast from South Africa.</h3>
 
 <p align="left"> <a href="https://twitter.com/siphemng" target="blank"><img src="https://img.shields.io/twitter/follow/siphemng?logo=twitter&style=for-the-badge" alt="siphemng" /></a> </p>
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/siphemng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siphemng" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siphe-mngxunyeni-346552135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siphe-mngxunyeni-346552135/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/siphe-mngxunyeni-346552135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/siphe-mngxunyeni-346552135" height="30" width="40" /></a>
 <a href="https://medium.com/@siphe247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@siphe247" height="30" width="40" /></a>
 </p>
 
