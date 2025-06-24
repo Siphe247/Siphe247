@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Siphe👨🏽‍💻</h1>
+<h1 align="center">Hi 👋🏽, I'm Siphe</h1>
 <h3 align="center">A football enthusiast from South Africa🇿🇦.</h3>
 
 <p align="left"> <a href="https://twitter.com/siphemng" target="blank"><img src="https://img.shields.io/twitter/follow/siphemng?logo=twitter&style=for-the-badge" alt="siphemng" /></a> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **on how to apply machine learning in improving my performance in fantasy football(soccer).**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Siphe247?tab=repositories](https://github.com/Siphe247?tab=repositories)
+- 👨🏽‍💻 All of my projects are available at [https://github.com/Siphe247?tab=repositories](https://github.com/Siphe247?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@siphe247/premier-league-after-match-day-36-the-champions-league-battle-the-tale-of-two-hideous-twins-e6129fafa19f](https://medium.com/@siphe247/premier-league-after-match-day-36-the-champions-league-battle-the-tale-of-two-hideous-twins-e6129fafa19f)
 
@@ -33,5 +33,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=siphe247&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siphe247&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=siphe247&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=siphe247&icon=0&color=0)](https://visitcount.itsvg.in)
 
