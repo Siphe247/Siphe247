@@ -9,7 +9,7 @@
 
 - 👨🏽‍💻 All of my projects are available at [https://github.com/Siphe247?tab=repositories](https://github.com/Siphe247?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@siphe247](https://medium.com/@siphe247)
+- 📝 I sparingly write articles on [https://medium.com/@siphe247](https://medium.com/@siphe247)
 
 - 💬 Ask me about **football data visualisation, Python programming for sports analytics, and turning complex football stats into compelling stories.**
 
