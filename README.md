@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siphe247@gmail.com**
 
-- ⚡ Fun fact **I am highly extroverted.**
+- ⚡ Fun fact **I am cross lateral.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
