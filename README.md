@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/siphemng" target="blank"><img src="https://img.shields.io/twitter/follow/siphemng?logo=twitter&style=for-the-badge" alt="siphemng" /></a> </p>
 
-- 🔬 I’m currently working on **a project where I animate the top 10 goalscorers in Europe's top 5 leagues and Liga Portugal across the season.**
+- 🔬 I’m currently working on **a project where I am fully event tagging the 2023 Spanish Super Cup final as part of a personal project.**
 
 - 🌱 I’m currently learning **on how to apply machine learning in improving my performance in fantasy football(soccer).**
 
