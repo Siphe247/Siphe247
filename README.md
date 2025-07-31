@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **on how to apply machine learning in improving my performance in fantasy football(soccer).**
 
-- 📝 I sparingly write articles on [Medium](https://medium.com/@siphe247) and [Substack](https://substack.com/@siphe247?utm_source=user-menu)
+- 📝 I occasionally write articles on [Medium](https://medium.com/@siphe247) and [Substack](https://substack.com/@siphe247?utm_source=user-menu)
 
 - 💬 Ask me about **football data visualisation, Python programming for sports analytics, and turning complex football stats into compelling stories.**
 
