@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **siphe247@gmail.com**
 
+- 📄 Know about my experiences [https://siphe-s-curriculum-vitae.tiiny.site](https://siphe-s-curriculum-vitae.tiiny.site)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
